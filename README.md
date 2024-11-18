@@ -1,12 +1,5 @@
-- 👋 Hi, I’m @keinlarry
-- 👀 I’m interested in Data science and Mathematics
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Bonjour ! Bienvenue sur mon profil Github ! 👋
 
-<!---
-keinlarry/keinlarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je m'appelle Kein et je m'intéresse à tout ce qui touche aux mathématiques, à la data science et à l'apprentissage automatique. Je vis actuellement en France. Pendant mon temps libre, j'aime regarder la NBA, des séries, et explorer différents genres musicaux autour d'une tasse de café (sans ordre particulier).
+
+Consultez mon portfolio pour voir tous mes projets & compétences.
